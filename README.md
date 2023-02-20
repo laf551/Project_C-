@@ -1,6 +1,6 @@
 This is an example .NET project used in Codeanywhere.
 
-[Try it out](https://beta.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/dotnet)
+[Try it out](https://app.codeanywhere.com/workspace#https://github.com/Codeanywhere-Templates/dotnet)
 
 ### Running the project
 
