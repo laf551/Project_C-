@@ -1,7 +1,9 @@
-namespace ApplicationConsole {
+using System; 
+
+namespace ApplicationConsole {   /** Object name **/
     class Program {
         static void Main (string[] args){
-            vzr l = new List<string>();
+          Console.WriteLine("hello word!");
         }
     }
 }
