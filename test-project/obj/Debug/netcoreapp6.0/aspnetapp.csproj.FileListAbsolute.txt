@@ -1,0 +1,6 @@
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.csproj.AssemblyReference.cache
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.AssemblyInfoInputs.cache
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.AssemblyInfo.cs
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.csproj.CoreCompileInputs.cache
+/workspaces/Project_C-/test-project/obj/Debug/netcoreapp6.0/aspnetapp.MvcApplicationPartsAssemblyInfo.cache
